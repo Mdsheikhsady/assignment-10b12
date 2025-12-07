@@ -17,7 +17,7 @@ const tips =[
     "id": 3,
     "image": "https://i.postimg.cc/LX8JsfZY/pet-care.png",
     "title": "Trusted Adoption Process",
-    "description": "Every pet is health-checked, vaccinated, and cared for with love before being listed for adoption."
+    "description": "Every pet is health-checked, and cared for with love before being listed for adoption."
   },
   {
     "id": 4,
