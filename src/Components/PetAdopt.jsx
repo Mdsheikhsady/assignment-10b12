@@ -4,34 +4,34 @@ const tips =[
   {
     "id": 1,
     "image": "https://i.postimg.cc/wvXw9CLT/dog.png",
-    "title": "Keep Your Pet Warm",
-    "description": "Provide warm bedding and winter-appropriate clothing to protect your pet from cold temperatures."
+    "title": "Save a Life",
+    "description": "Every adoption helps reduce the number of homeless animals and gives a deserving pet a second chance."
   },
   {
     "id": 2,
     "image": "https://i.postimg.cc/YSk4JTrk/dog-(1).png",
-    "title": "Protect Their Paws",
-    "description": "Use paw balm or dog boots to prevent cracks and irritation from snow, ice, and salt."
+    "title": "Find the Perfect Match",
+    "description": "Choose from a wide variety of pets to find the one that fits your lifestyle and family best."
   },
   {
     "id": 3,
     "image": "https://i.postimg.cc/LX8JsfZY/pet-care.png",
-    "title": "Maintain Proper Hydration",
-    "description": "Pets can get dehydrated in winter too, so ensure fresh water is always available and not frozen."
+    "title": "Trusted Adoption Process",
+    "description": "Every pet is health-checked, vaccinated, and cared for with love before being listed for adoption."
   },
   {
     "id": 4,
     "image": "https://i.postimg.cc/wxP161qC/animal-care.png",
-    "title": "Limit Outdoor Time",
-    "description": "Avoid long outdoor exposure during extremely cold weather to protect your pet from frostbite and hypothermia."
+    "title": "Support After Adoption",
+    "description": "Get guidance on food, training, and healthcare to ensure your new pet settles in comfortably."
   }
 ]
 
-const WinterCareTips = () => {
+const PetAdopt = () => {
     return (
         <div className='py-12 bg-base-100'>
             <h2 className='text-3xl font-bold text-center text-primary mb-8'>
-                Winter Care Tips for Pets
+                Why Adopt from PetMart?
             </h2>
             <div className='grid md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto px-4'>
                 {
@@ -56,4 +56,4 @@ const WinterCareTips = () => {
     );
 };
 
-export default WinterCareTips;
+export default PetAdopt;
