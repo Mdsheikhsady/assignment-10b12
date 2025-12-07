@@ -45,7 +45,7 @@ const MeetOurVets = () => {
                                 <h3 className='card-title text-primary'>{vet.name}</h3>
                                 <p className='text-sm font-semibold'>{vet.specialization}</p>
                                 <p className='opacity-70 text-sm'>Experience: {vet.experience}</p>
-                                <button className='btn btn-primary btn-sm mt-3'>See Details</button>
+                                <button className='btn btn-primary btn-sm mt-3'>See more Details</button>
 
                             </div>
                         </div>
