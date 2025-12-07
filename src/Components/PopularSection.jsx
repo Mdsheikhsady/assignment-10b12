@@ -16,7 +16,7 @@ const PopularSection = () => {
     <div className="lg:px-20 md:px-10 mt-8">
       <div>
         <h3 className="font-bold text-3xl text-center text-primary">
-          Popular Winter Care Services
+          Featured Services
         </h3>
       </div>
 
