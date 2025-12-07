@@ -3,14 +3,14 @@ import React from 'react';
 const vets = [
     {
     id: 1,
-    name: "Dr. Michael Luna",
+    name: "Michael Luna",
     specialization: "Veterinary Surgeon",
     experience: "7 years",
     image: "https://animalfriendlylife.com.au/wp-content/uploads/2022/06/2022_04_12_PETSTOCK27420_pic_EugeneHyland-683x1024.jpg.webp"
   },
   {
     id: 2,
-    name: "Dr. Ab Rahman",
+    name: "Ab Rahman",
     specialization: "Animal Nutrition Specialist",
     experience: "5 years",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdXsWE3ByHOXu6KsA48-m-oXi3IZckmS4leA&s"
