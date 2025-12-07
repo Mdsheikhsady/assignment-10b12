@@ -93,7 +93,7 @@ const ServiceDetails = () => {
               onSubmit={handleOrder}
               className="fieldset bg-base-200 border-base-300 rounded-box w-full border p-4"
             >
-              <legend className="fieldset-legend">Order details</legend>
+              <legend className="fieldset-legend">Order Details</legend>
 
               <label className="label">Product Name</label>
               <input
