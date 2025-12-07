@@ -3,17 +3,17 @@ import React from 'react';
 const vets = [
     {
     id: 1,
-    name: "Dr. Michael Thompson",
+    name: "Dr. Michael Luna",
     specialization: "Veterinary Surgeon",
     experience: "7 years",
-    image: "https://i.postimg.cc/m2Yvp9Ks/vitaly-gariev-VAvk-Pt-F4HJI-unsplash.jpg"
+    image: "https://animalfriendlylife.com.au/wp-content/uploads/2022/06/2022_04_12_PETSTOCK27420_pic_EugeneHyland-683x1024.jpg.webp"
   },
   {
     id: 2,
     name: "Dr. Ab Rahman",
     specialization: "Animal Nutrition Specialist",
     experience: "5 years",
-    image: "https://i.postimg.cc/TYf7w4H3/usman-yousaf-PVjf-Lss3b-c-unsplash.jpg"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdXsWE3ByHOXu6KsA48-m-oXi3IZckmS4leA&s"
   },
   {
     id: 3,
@@ -45,7 +45,7 @@ const MeetOurVets = () => {
                                 <h3 className='card-title text-primary'>{vet.name}</h3>
                                 <p className='text-sm font-semibold'>{vet.specialization}</p>
                                 <p className='opacity-70 text-sm'>Experience: {vet.experience}</p>
-                                <button className='btn btn-primary btn-sm mt-3'>Book Appointment</button>
+                                <button className='btn btn-primary btn-sm mt-3'>See Details</button>
 
                             </div>
                         </div>
