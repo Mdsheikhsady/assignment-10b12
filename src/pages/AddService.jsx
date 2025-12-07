@@ -85,7 +85,7 @@ const AddService = () => {
             className="w-full border px-4 py-2 rounded-lg focus:ring-2 focus:ring-green-500 outline-none"
             placeholder="Select category"
           >
-            <option value="">Select category</option>
+            <option value="">Select Category</option>
             <option value="Pets">Pets</option>
             <option value="Food">Food</option>
             <option value="Accessories">Accessories</option>
