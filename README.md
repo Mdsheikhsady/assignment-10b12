@@ -18,6 +18,7 @@ key features:
 *> pass updating and profile update
 *> Order Page
 *> fully responsive mobile fast website build by tailwind and react
+*> react tailwind
 
 
 
