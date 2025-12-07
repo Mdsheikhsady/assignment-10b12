@@ -12,8 +12,8 @@ const Slider = () => {
     return (
         <div>
         <Swiper navigation={true} modules={[Navigation]} className="mySwiper">
-        <SwiperSlide><img className='w-full h-[500px] object-cover' src={i2} alt="" /></SwiperSlide>
         <SwiperSlide><img className='w-full h-[500px] object-cover' src={i1} alt="" /></SwiperSlide>
+        <SwiperSlide><img className='w-full h-[500px] object-cover' src={i2} alt="" /></SwiperSlide>
         <SwiperSlide><img className='w-full h-[500px] object-cover' src={i3} alt="" /></SwiperSlide>
       </Swiper>
         </div>
