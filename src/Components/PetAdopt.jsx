@@ -4,8 +4,8 @@ const tips =[
   {
     "id": 1,
     "image": "https://i.postimg.cc/wvXw9CLT/dog.png",
-    "title": "Save a Life ",
-    "description": "Every adoption helps reduce the number of homeless animals and gives a deserving pet a second chance."
+    "title": "Save a Life",
+    "description": "Every adoption helps reduce the number of homeless animals and gives a deserving pet a second life chance."
   },
   {
     "id": 2,
