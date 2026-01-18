@@ -13,6 +13,8 @@ import AddService from "../pages/AddService";
 import MyServices from "../pages/MyServices";
 import UpdateService from "../pages/UpdateService";
 import MyOrders from "../pages/myOrders";
+import PrivacyPolicy from "../pages/PrivacyPolicy";
+import TermsOfUse from "../pages/TermsOfUse";
 
 const router = createBrowserRouter([
   {
@@ -41,6 +43,14 @@ const router = createBrowserRouter([
         {
             path:'/profile',
             element:<PrivateRouter><Profile></Profile></PrivateRouter>
+        },
+        {
+            path:'/privacypolicy',
+            element:<PrivacyPolicy></PrivacyPolicy>
+        },
+         {
+            path:'/termsofuse',
+            element:<TermsOfUse></TermsOfUse>
         },
         {
             path: '/details/:myId',

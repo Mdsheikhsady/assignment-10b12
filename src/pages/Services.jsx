@@ -18,7 +18,7 @@ const Services = () => {
 
   return (
     <div>
-      <div className="mt-10 text-right mr-10">
+      <div className="mt-20 text-right mr-10">
         <select
           onChange={(e) => setCategory(e.target.value)}
           className="select"
